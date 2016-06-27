@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GridRadioButtonGroup/GridRadioButtonGroup.iml" filepath="$PROJECT_DIR$/GridRadioButtonGroup/GridRadioButtonGroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridRadioGroupButtonDemo.iml" filepath="$PROJECT_DIR$/GridRadioGroupButtonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
